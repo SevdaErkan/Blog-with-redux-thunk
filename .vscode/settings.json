@@ -1,0 +1,5 @@
+{
+    "prettier.trailingComma": "all",
+    "prettier.jsxSingleQuote": true,
+    "prettier.withNodeModules": true
+}
